@@ -14,7 +14,7 @@ require (
 
 require (
 	github.com/onsi/gomega v1.34.1
-	github.com/openstack-k8s-operators/infra-operator/apis v0.6.1-0.20250813080805-939d454063fa
+	github.com/openstack-k8s-operators/infra-operator/apis v0.6.1-0.20250825154944-f18bd7894ed6
 )
 
 require (
